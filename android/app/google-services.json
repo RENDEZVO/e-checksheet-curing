@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598983347227",
+    "project_id": "e-checksheet-38849",
+    "storage_bucket": "e-checksheet-38849.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598983347227:android:43545d074a6f6ef5dbbcbe",
+        "android_client_info": {
+          "package_name": "com.example.e_checksheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVw56-1Vq84bMTijs6Hb6LFY6xcdqjYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
